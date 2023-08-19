@@ -1,11 +1,15 @@
 # anyrun
 
-repo sturcture
+## repo sturcture
+
+### core
 
 * anyrun
 * interface
 * macros
 * plugin
+
+### plugins
 
 * plugin-applications
 * plugin-dictionary
